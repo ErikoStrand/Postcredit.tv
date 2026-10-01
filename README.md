@@ -1,47 +1,32 @@
-<div align="center">
+# Postcredit.tv
 
-# 🎬 Postcredit.tv
+**A high-performance media tracking and discovery platform.**
 
-### The Next-Generation Media Tracking & Discovery Platform
-
-[![Website](https://img.shields.io/badge/Website-postcredit.tv-10b981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://postcredit.tv)
-[![Status](https://img.shields.io/badge/Status-Active%20Development-06b6d4?style=for-the-badge)](https://postcredit.tv)
-[![Discord](https://img.shields.io/badge/Community-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-
-<p align="center">
-  A blazing-fast, comprehensive platform built for discovering, logging, and discussing movies, TV shows, and cast.
-</p>
-
-</div>
+[![Website](https://img.shields.io/badge/Production-postcredit.tv-10b981?style=flat-square)](https://postcredit.tv)
+[![Status](https://img.shields.io/badge/Status-Active%20Development-0ea5e9?style=flat-square)](https://postcredit.tv)
 
 ---
 
-## ✨ Features
+Postcredit.tv is built from the ground up for speed, depth, and clean interaction. It provides a modern, zero-latency interface for logging watch history, exploring detailed film metrics, and discovering media through vector intelligence.
 
-- ⚡ **Zero-Latency Experience**: Built with instant in-memory navigation and smart edge caching for sub-millisecond page transitions.
-- 🍿 **Comprehensive Tracking**: Log movies, track TV show seasons & episodes with granular watch histories and rewatch counts.
-- 🎯 **Semantic & Vector Search**: AI-powered discovery and visual image matching to find exactly what to watch next.
-- 📊 **Rich Analytics**: Deep watch statistics, actor breakdowns, rating distributions, and custom media lists.
-- 🔄 **One-Click Imports**: Seamless migration tools from Trakt, IMDb, and Netflix.
+### Core Architecture & Values
 
----
-
-## 🛠️ Built With
-
-- **Frontend**: Svelte 5 (Runes), SvelteKit, Tailwind CSS 4, TypeScript
-- **Backend & Data**: PostgreSQL, Drizzle ORM, `pgvector`, Node.js, Python
-- **Infrastructure**: Docker, Cloudflare Edge & CDN, GitHub Actions CI/CD
+* **Zero-Latency Performance** — Sub-millisecond client-side routing, optimistic caching, and edge-distributed metadata delivery.
+* **Vector Semantic Search** — Natural language discovery powered by embeddings to find films and shows based on nuanced themes, plot concepts, and vibes.
+* **Aspect Ratings & Review Consensus** — Synthesized audience consensus alongside categorical scoring across story, acting, direction, and visual execution.
+* **Dynamic Smart Lists** — Self-populating collections driven by multi-criteria rules, runtime windows, and explicit genre exclusions.
+* **Granular Tracking** — Episode-by-episode timelines, rewatch timestamps, streak metrics, and yearly activity heatmaps.
+* **Full Data Ownership** — Complete exportability and seamless imports from Trakt, IMDb, and Netflix. No lock-in.
 
 ---
 
-## 🗺️ Roadmap & Feedback
+### Feedback & Contributing
 
-Have a feature request or found a bug? 
-- Open an [Issue](https://github.com/ErikoStrand/postcredit.tv/issues)
-- Join the discussion and follow progress on [postcredit.tv](https://postcredit.tv)
+Found a bug or want to request a feature?
+
+* [Open an issue](https://github.com/ErikoStrand/postcredit.tv/issues)
+* Visit the live platform at [postcredit.tv](https://postcredit.tv)
 
 <br/>
 
-<div align="center">
-  <sub>© 2026 Postcredit.tv · Created by <a href="https://github.com/ErikoStrand">@ErikoStrand</a></sub>
-</div>
+<sub>© 2026 Postcredit.tv · Maintained by <a href="https://github.com/ErikoStrand">@ErikoStrand</a></sub>
